@@ -1,0 +1,8 @@
+torch>=1.10
+torchvision>=0.11
+numpy>=1.19
+pandas>=1.2
+scikit-learn>=0.24
+tqdm>=4.60
+Pillow>=8.0
+torchtext>=0.9.0,<0.15
